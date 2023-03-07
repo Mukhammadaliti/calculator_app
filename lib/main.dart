@@ -118,7 +118,7 @@ class _HomePageState extends State<HomePage> {
                           });
                         },
                         buttonText: buttons[index],
-                        color: Colors.red,
+                        color: Colors.yellow,
                         textColor: Colors.white,
                       );
                     } else if (index == buttons.length - 1) {
@@ -129,7 +129,7 @@ class _HomePageState extends State<HomePage> {
                           });
                         },
                         buttonText: buttons[index],
-                        color: Colors.red,
+                        color: Colors.yellow,
                         textColor: Colors.white,
                       );
                     } else {
